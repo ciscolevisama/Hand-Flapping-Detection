@@ -124,11 +124,16 @@ python src/inference/run_inference.py \
 
 ## 📈 Visual Examples
 
-- **Pipeline Diagram:**  
-  ![Pipeline](figures/pipeline.png)
+- **Normalised confusion matrices for (a) Random Forest**  
+<img width="724" height="607" alt="image" src="https://github.com/user-attachments/assets/3e787c52-1dca-4eb4-b038-b25bbb283840" />
 
-- **Prediction Alignment (Fig. 4.4):**  
-  ![Predictions](figures/Figure_4_4_alignment.png)
+
+- **Normalised confusion matrices for (b) Hybrid CNN–LSTM models:**  
+<img width="679" height="566" alt="image" src="https://github.com/user-attachments/assets/a3f8b15e-f51b-453d-8898-192e9e322f32" />
+
+- **Temporal alignment between weak labels and model predictions for the video “Flapping her arms [KPuLA5LlVjg]:**  
+<img width="877" height="442" alt="image" src="https://github.com/user-attachments/assets/3b36c9a9-74ba-4ef6-a9b4-5cd6f97e39be" />
+
 
 ---
 
