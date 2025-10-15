@@ -74,29 +74,6 @@ While earlier methods quantified only **flapping frequency**, this study introdu
 
 ---
 
-## 🧮 Repository Structure
-
-```
-src/
- ├── preprocessing/       # Pose extraction, angle computation
- ├── training/            # ML and DL training scripts
- ├── inference/           # Predict and visualise results
- ├── analysis/            # Quantitative & qualitative evaluation
- └── utils/               # Helper functions and configs
-configs/
- └── train_hybrid_len64.json
-figures/
- ├── pipeline.png
- └── Figure_4_4_alignment.png
-requirements.txt
-README.md
-.gitignore
-LICENSE
-weak_labels.csv (optional)
-```
-
----
-
 ## 💻 Example Usage
 
 ### ▶️ Preprocess video
