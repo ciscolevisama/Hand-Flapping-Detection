@@ -1,4 +1,4 @@
-<img width="408" height="122" alt="image" src="https://github.com/user-attachments/assets/36b1811c-c844-444c-8844-8867246fd4f1" /># 🧠 Temporal Modelling and Classification of Hand Flapping Form in Autism Spectrum Disorder
+# 🧠 Temporal Modelling and Classification of Hand Flapping Form in Autism Spectrum Disorder
 
 This repository implements a **pose-based deep learning framework** to classify **hand-flapping forms** in children with Autism Spectrum Disorder (ASD).  
 It extends the earlier frequency-based pipeline by **Mohammed (2023)** to include **temporal modelling** and **form classification**, using pose-estimated joint angles and hybrid deep-learning architectures.
