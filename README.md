@@ -27,8 +27,8 @@ While earlier methods quantified only **flapping frequency**, this study introdu
 
 ## 🧩 Pipeline Overview
 
-<img width="800" alt="Pipeline Overview" src="https://github.com/user-attachments/assets/b1d2fe2d-bbf1-4cac-8fbb-e96599e55fba" />
 
+<img width="1242" height="381" alt="dc2c8d3fa5165222411e7f03f4a9ecc2" src="https://github.com/user-attachments/assets/eced88be-a0b1-4c0a-855f-5d3ca0ef5eba" />
 
 
 ---
