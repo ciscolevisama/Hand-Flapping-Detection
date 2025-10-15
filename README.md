@@ -142,13 +142,6 @@ python src/inference/run_inference.py \
 This project extends the baseline framework of **Mohammed (2023)** and was supervised by **Dr. Zati Hakim Azizul Hasan**  
 at the Department of Artificial Intelligence, Faculty of Computer Science and Information Technology, Universiti Malaya.
 
----
-
-## 🧩 License
-
-This repository is distributed under the **MIT License**.  
-Raw video data from the **ASBD dataset** is not redistributed here due to privacy and licensing constraints.  
-Processed features and trained models are available upon reasonable request.
 
 ---
 
