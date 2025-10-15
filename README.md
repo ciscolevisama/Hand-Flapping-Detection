@@ -137,20 +137,6 @@ python src/inference/run_inference.py \
 
 ---
 
-## 🧭 Citation
-
-If you use this code, please cite:
-
-> Chen, S. (2025). *Temporal Modelling and Classification of Hand Flapping Form in Autism Spectrum Disorder.*  
-> Master’s Dissertation, University of Malaya.
-
-and prior work:
-
-> Mohammed, H. A. (2023). *Hand Flapping Detection Using Pose Estimation.*  
-> University of Malaya.
-
----
-
 ## 🪄 Acknowledgements
 
 This project extends the baseline framework of **Mohammed (2023)** and was supervised by **Dr. Zati Hakim Azizul Hasan**  
